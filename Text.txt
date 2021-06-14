@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello string change
 
+=======
+Hello char
+>>>>>>> parent of c229093 (Thay doi lan 3)

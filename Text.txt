@@ -1,9 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 Hello string change
-=======
-Hello string
->>>>>>> parent of d6a8a19 (Thay doi lan 4)
 
 =======
 Hello char
